@@ -23,3 +23,7 @@ Platypodes are not the only [venomous mammal](https://en.wikipedia.org/wiki/Veno
 There's a rich history to a (now) well know approach to 2.5D rendering called [voxel space](https://en.wikipedia.org/wiki/Voxel_Space). [Sebastian Macke](https://github.com/s-macke/VoxelSpace) describes the history well.
 
 The canonical book on missing data/data bias in general got an update in 2019: [Statistical Analysis with Missing Data](https://www.amazon.com/Statistical-Analysis-Missing-Probability-Statistics/dp/0470526793/ref=sr_1_1?keywords=Statistical+Analysis+with+Missing+Data&qid=1578112978&s=books&sr=1-1).
+
+#### 04
+
+Australia is deploying the military to fight the [2019-2020 bushfire season](https://www.nytimes.com/2020/01/04/world/australia/fires-military.html).

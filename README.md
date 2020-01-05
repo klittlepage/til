@@ -27,3 +27,7 @@ The canonical book on missing data/data bias in general got an update in 2019: [
 #### 04
 
 Australia is deploying the military to fight the [2019-2020 bushfire season](https://www.nytimes.com/2020/01/04/world/australia/fires-military.html).
+
+#### 05
+
+[Deterministic databases](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html) guarantee that given a defined set of input requests only one final state is possible. This is a stronger guarantee than serializability that makes replication trivial.

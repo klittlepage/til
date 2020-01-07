@@ -34,4 +34,8 @@ Australia is deploying the military to fight the [2019-2020 bushfire season](htt
 
 #### 06
 
-[Orthodromic distance](https://en.wikipedia.org/wiki/Great-circle_distance) is the shortest distance between two points on the surface of a sphere. 
+[Orthodromic distance](https://en.wikipedia.org/wiki/Great-circle_distance) is the shortest distance between two points on the surface of a sphere.
+
+#### 07
+
+The [first chosen-prefix collision for SHA-1](https://sha-mbles.github.io/) came out today.

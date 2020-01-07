@@ -31,3 +31,7 @@ Australia is deploying the military to fight the [2019-2020 bushfire season](htt
 #### 05
 
 [Deterministic databases](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html) guarantee that given a defined set of input requests only one final state is possible. This is a stronger guarantee than serializability that makes replication trivial.
+
+#### 06
+
+[Orthodromic distance](https://en.wikipedia.org/wiki/Great-circle_distance) is the shortest distance between two points on the surface of a sphere. 

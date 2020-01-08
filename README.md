@@ -39,3 +39,7 @@ Australia is deploying the military to fight the [2019-2020 bushfire season](htt
 #### 07
 
 The [first chosen-prefix collision for SHA-1](https://sha-mbles.github.io/) came out today.
+
+#### 08
+
+Google's [library for GIS](https://s2geometry.io/) has a [cool illustration](https://s2geometry.io/resources/earthcube) of how a single space-filling curve covers the globe.

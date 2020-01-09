@@ -43,3 +43,7 @@ The [first chosen-prefix collision for SHA-1](https://sha-mbles.github.io/) came
 #### 08
 
 Google's [library for GIS](https://s2geometry.io/) has a [cool illustration](https://s2geometry.io/resources/earthcube) of how a single space-filling curve covers the globe.
+
+#### 09
+
+The [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm) allows for fast pattern matching when implementing rule-based systems.

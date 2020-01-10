@@ -47,3 +47,7 @@ Google's [library for GIS](https://s2geometry.io/) has a [cool illustration](htt
 #### 09
 
 The [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm) allows for fast pattern matching when implementing rule-based systems.
+
+#### 10
+
+There's a fascinating [mind map of symmetries in physics](https://en.wikipedia.org/wiki/Exceptional_object#/media/File:Exceptionalmindmap2.png).

@@ -51,3 +51,7 @@ The [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm) allows for fa
 #### 10
 
 There's a fascinating [mind map of symmetries in physics](https://en.wikipedia.org/wiki/Exceptional_object#/media/File:Exceptionalmindmap2.png).
+
+#### 11
+
+The generalization of real numbers, complex numbers, and quaternions, is a [Clifford algebra](https://en.wikipedia.org/wiki/Clifford_algebra).

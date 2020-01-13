@@ -55,3 +55,7 @@ There's a fascinating [mind map of symmetries in physics](https://en.wikipedia.o
 #### 11
 
 The generalization of real numbers, complex numbers, and quaternions, is a [Clifford algebra](https://en.wikipedia.org/wiki/Clifford_algebra).
+
+#### 12
+
+The [Trivers–Willard hypothesis](https://en.wikipedia.org/wiki/Trivers%E2%80%93Willard_hypothesis) suggests that female mammals are able to adjust offspring sex ratio in response to their maternal condition.

@@ -63,3 +63,7 @@ The [Trivers–Willard hypothesis](https://en.wikipedia.org/wiki/Trivers%E2%80%9
 #### 13
 
 The tool used for generating [The Rust Book](https://doc.rust-lang.org/book/) is [mdbook](https://github.com/rust-lang/mdBook).
+
+#### 14
+
+The [Grossman-Stiglitz paradox](https://www.bloomberg.com/opinion/articles/2014-04-02/high-frequency-trading-may-be-too-efficient) refers to the observation that "if markets are efficient -- if market prices accurately reflect all the information in the world -- then there's no incentive for anyone to invest any time or money or effort into finding more information."

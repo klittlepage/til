@@ -59,3 +59,7 @@ The generalization of real numbers, complex numbers, and quaternions, is a [Clif
 #### 12
 
 The [Trivers–Willard hypothesis](https://en.wikipedia.org/wiki/Trivers%E2%80%93Willard_hypothesis) suggests that female mammals are able to adjust offspring sex ratio in response to their maternal condition.
+
+#### 13
+
+The tool used for generating [The Rust Book](https://doc.rust-lang.org/book/) is [mdbook](https://github.com/rust-lang/mdBook).

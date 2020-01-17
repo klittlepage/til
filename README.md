@@ -71,3 +71,7 @@ The [Grossman-Stiglitz paradox](https://www.bloomberg.com/opinion/articles/2014-
 #### 15
 
 A critical [security vulnerability](https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF) in Windows [allowed for spoofing of ECC certificates](https://research.kudelskisecurity.com/2020/01/15/cve-2020-0601-the-chainoffools-attack-explained-with-poc/). The underlying cause had nothing to do with the cryptographic primitives themselves but highlighted an interesting property of ECC - constructing a private key $K'$ that matches the public key of another private key $K$ is trivial if you have control over the curve parameters.
+
+#### 16
+
+The US [struggled greatly with torpedo technology](https://www.historynet.com/us-torpedo-troubles-during-world-war-ii.htm) during WWII.

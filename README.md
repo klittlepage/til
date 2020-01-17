@@ -75,3 +75,7 @@ A critical [security vulnerability](https://media.defense.gov/2020/Jan/14/200223
 #### 16
 
 The US [struggled greatly with torpedo technology](https://www.historynet.com/us-torpedo-troubles-during-world-war-ii.htm) during WWII.
+
+#### 17
+
+The ```syscall/sysret``` instructions found in x86-64 are [10x faster than software interrupts](https://x86.lol/generic/2019/07/04/kernel-entry.html).

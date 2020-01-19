@@ -79,3 +79,7 @@ The US [struggled greatly with torpedo technology](https://www.historynet.com/us
 #### 17
 
 The ```syscall/sysret``` instructions found in x86-64 are [10x faster than software interrupts](https://x86.lol/generic/2019/07/04/kernel-entry.html).
+
+#### 18
+
+LISP had a [wild ride](http://flownet.com/gat/jpl-lisp.html) at JPL.
